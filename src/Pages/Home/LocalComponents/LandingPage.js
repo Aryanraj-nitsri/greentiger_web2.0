@@ -3,7 +3,6 @@ import CustomWidth from '../../../Global Components/CustomWidth'
 import Fullwidth from '../../../Global Components/Fullwidth'
 
 export default function LandingPage({url}) {
-    console.log(url)
   return (
         <Fullwidth url={""} >
     <CustomWidth>
